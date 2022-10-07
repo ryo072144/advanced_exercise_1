@@ -1,16 +1,12 @@
-# flutter_advanced_exercise_1
+# Flutter基礎講座第一回練習問題
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 問1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+カウンターアプリをRiverpodを使って書き換えてください。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 問2
+
+Settingのポップアップメニューボタンを切り替えると、アプリ全体のテーマがThemeData.lighgt()、ThemeData.dark()にそれぞれ切り替わるようにしてください。
