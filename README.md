@@ -9,4 +9,4 @@
 
 ## 問2
 
-Settingのポップアップメニューボタンを切り替えると、アプリ全体のテーマがThemeData.lighgt()、ThemeData.dark()にそれぞれ切り替わるようにしてください。
+Settingのポップアップメニューボタンを切り替えると、アプリ全体のテーマがThemeData.light()、ThemeData.dark()にそれぞれ切り替わるようにしてください。
